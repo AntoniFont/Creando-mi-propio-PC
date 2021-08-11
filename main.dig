@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <circuit>
   <version>1</version>
-  <visualElements/>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>Memoria principal.dig</elementName>
+      <elementAttributes/>
+      <pos x="1120" y="500"/>
+    </visualElement>
+  </visualElements>
   <wires/>
+  <measurementOrdering/>
 </circuit>
