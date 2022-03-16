@@ -38,16 +38,16 @@ La herramienta que he usado es "Digital" de hneeman https://github.com/hneemann/
 Donde AAAAAA es la dirección de una posición de memoria
 # Algunas imágenes
 Visión principal
-![Imagen Central](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/ImagenCentral.PNG)
+![ImagenCentral](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/ImagenCentral.PNG)
 Visión global
-![Imagen Global](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/imagenTotal.PNG)
+![ImagenGlobal](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/imagenTotal.PNG)
 Unidad de Ejecución
-![Unidad de ejecucion](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/unidadDeEjecucion.PNG)
+![Unidaddeejecucion](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/unidadDeEjecucion.PNG)
 ALU
 ![ALU](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/ALU.PNG)
 Unidad de Control
-![Unidad de Control](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/unidadControl.PNG)
-Memoria
+![UnidaddeControl](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/unidadControl.PNG)
+Memoria principal
 ![Memoria](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/memoria.PNG)
 
 
