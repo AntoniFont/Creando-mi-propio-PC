@@ -8,7 +8,7 @@ hacer un ordenador o dispositivo movil común de hoy en día.
 Se podría hacer con lenguajes para construir circuitos tales como VHDL o Verilog, pero hacerlo con un diseño gráfico
 es mas visual (y entretenido).
 
-La herramienta que he usado es "Digital" de hneeman https://github.com/hneemann/Digital 
+La herramienta que he usado es "Digital" de hneemann https://github.com/hneemann/Digital 
 
 # Características
  - 6.5 kHZ,  es decir 6500 ciclos/operaciones por segundo
