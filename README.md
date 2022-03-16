@@ -1,3 +1,4 @@
+# Descripción
 Proyecto veraniego de mi tiempo libre. 
 
 A partir de únicamente puertas lógicas (lo mas básico posible, mas simple sería soldar cables y transistores manualmente) 
@@ -9,10 +10,31 @@ es mas visual (y entretenido).
 
 La herramienta que he usado es "Digital" de hneeman https://github.com/hneemann/Digital 
 
-Características
+# Características
  - 6.5 kHZ
  - 128 Bytes de memoria, se pueden añadir mas si es necesario
  - 2166 componentes
  - Bus de 16 bits
  - 14 instrucciones
+
+# Instrucciones
+| Instrucción | Codificación       |
+|-------------|--------------------|
+| ADD         | 00000 XXXXX XXXXXX |
+| SUB         | 00001 XXXXX XXXXXX |
+| LEFT SHIFT  | 00101 XXXXX XXXXXX |
+| RIGHT SHIFT | 00110 XXXXX XXXXXX |
+| NOT         | 00100 XXXXX XXXXXX |
+| AND         | 00010 XXXXX XXXXXX |
+| OR          | 00011 XXXXX XXXXXX |
+| JMI         | 10000 XXXXX AAAAAA |
+| JMN         | 10001 XXXXX AAAAAA |
+| JMZ         | 10010 XXXXX AAAAAA |
+| LOAD R0     | 01000 XXXXX AAAAAA |
+| LOAD R1     | 01001 XXXXX AAAAAA |
+| STORE R2    | 01010 XXXXX AAAAAA |
+| JMC         | 10011 XXXXX AAAAAA |
+
+Donde AAAAAA es la dirección de una posición de memoria
+
 
