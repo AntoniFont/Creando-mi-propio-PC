@@ -11,7 +11,7 @@ es mas visual (y entretenido).
 La herramienta que he usado es "Digital" de hneeman https://github.com/hneemann/Digital 
 
 # Características
- - 6.5 kHZ
+ - 6.5 kHZ,  es decir 6500 ciclos/operaciones por segundo
  - 128 Bytes de memoria, se pueden añadir mas si es necesario
  - 2166 componentes
  - Bus de 16 bits
