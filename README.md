@@ -17,7 +17,7 @@ La herramienta que he usado es "Digital" de hneeman https://github.com/hneemann/
  - Bus de 16 bits
  - 14 instrucciones
 
-# Instrucciones
+# ISA
 | Instrucción | Codificación       |
 |-------------|--------------------|
 | ADD         | 00000 XXXXX XXXXXX |
