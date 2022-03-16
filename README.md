@@ -37,17 +37,17 @@ La herramienta que he usado es "Digital" de hneeman https://github.com/hneemann/
 
 Donde AAAAAA es la dirección de una posición de memoria
 # Algunas imágenes
-Visión principal
+## Visión principal
 ![ImagenCentral](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/ImagenCentral.PNG)
-Visión global
+## Visión global
 ![ImagenGlobal](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/imagenTotal.PNG)
-Unidad de Ejecución
-![Unidaddeejecucion](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/unidadDeEjecucion.PNG)
-ALU
+## Unidad de Ejecución
+![Unidaddeejecucion](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/unidadDeEjecucion.PNG)##
+## ALU
 ![ALU](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/ALU.PNG)
-Unidad de Control
+## Unidad de Control
 ![UnidaddeControl](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/unidadControl.PNG)
-Memoria principal
+## Memoria principal
 ![Memoria](https://github.com/AntoniFont/Creando-mi-propio-PC/blob/00ac925d20aaf12ab89b806a4b85592d263f39f2/imagenes/memoria.PNG)
 
 
