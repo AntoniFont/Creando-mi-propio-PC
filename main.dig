@@ -68,7 +68,7 @@
     <visualElement>
       <elementName>Driver</elementName>
       <elementAttributes/>
-      <pos x="-480" y="800"/>
+      <pos x="180" y="800"/>
     </visualElement>
     <visualElement>
       <elementName>Text</elementName>
@@ -76,16 +76,18 @@
         <entry>
           <string>Description</string>
           <string>Si estamos en el primer ciclo, 
-se envia el pulso de start. Si estamos en cualquier otro
-ciclo no se hace nada (se envia alta impedancia)</string>
+se envia el pulso de start.
+Si estamos en cualquier otro
+ciclo no se hace nada
+(se envia alta impedancia)</string>
         </entry>
       </elementAttributes>
-      <pos x="-400" y="700"/>
+      <pos x="220" y="640"/>
     </visualElement>
     <visualElement>
       <elementName>contador sin reset automatico.dig</elementName>
       <elementAttributes/>
-      <pos x="-1180" y="720"/>
+      <pos x="-520" y="720"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -99,17 +101,17 @@ ciclo no se hace nada (se envia alta impedancia)</string>
           <string>CLK</string>
         </entry>
       </elementAttributes>
-      <pos x="-1380" y="760"/>
+      <pos x="-720" y="760"/>
     </visualElement>
     <visualElement>
       <elementName>Multiplexer</elementName>
       <elementAttributes/>
-      <pos x="-1300" y="720"/>
+      <pos x="-640" y="720"/>
     </visualElement>
     <visualElement>
       <elementName>Ground</elementName>
       <elementAttributes/>
-      <pos x="-1320" y="680"/>
+      <pos x="-660" y="680"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -119,7 +121,7 @@ ciclo no se hace nada (se envia alta impedancia)</string>
           <string>ON</string>
         </entry>
       </elementAttributes>
-      <pos x="-1260" y="800"/>
+      <pos x="-600" y="800"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -387,12 +389,12 @@ ciclo no se hace nada (se envia alta impedancia)</string>
           <boolean>true</boolean>
         </entry>
       </elementAttributes>
-      <pos x="-840" y="760"/>
+      <pos x="-180" y="760"/>
     </visualElement>
     <visualElement>
       <elementName>Not</elementName>
       <elementAttributes/>
-      <pos x="-880" y="760"/>
+      <pos x="-220" y="760"/>
     </visualElement>
     <visualElement>
       <elementName>LedMatrix</elementName>
@@ -444,15 +446,15 @@ ciclo no se hace nada (se envia alta impedancia)</string>
       <p2 x="1500" y="480"/>
     </wire>
     <wire>
-      <p1 x="-1280" y="800"/>
-      <p2 x="-1260" y="800"/>
+      <p1 x="-620" y="800"/>
+      <p2 x="-600" y="800"/>
     </wire>
     <wire>
-      <p1 x="-540" y="800"/>
-      <p2 x="-500" y="800"/>
+      <p1 x="120" y="800"/>
+      <p2 x="160" y="800"/>
     </wire>
     <wire>
-      <p1 x="-460" y="800"/>
+      <p1 x="200" y="800"/>
       <p2 x="600" y="800"/>
     </wire>
     <wire>
@@ -472,16 +474,16 @@ ciclo no se hace nada (se envia alta impedancia)</string>
       <p2 x="1340" y="800"/>
     </wire>
     <wire>
-      <p1 x="-920" y="800"/>
-      <p2 x="-840" y="800"/>
+      <p1 x="-260" y="800"/>
+      <p2 x="-180" y="800"/>
     </wire>
     <wire>
-      <p1 x="-1260" y="740"/>
-      <p2 x="-1220" y="740"/>
+      <p1 x="-600" y="740"/>
+      <p2 x="-560" y="740"/>
     </wire>
     <wire>
-      <p1 x="-1100" y="740"/>
-      <p2 x="-920" y="740"/>
+      <p1 x="-440" y="740"/>
+      <p2 x="-260" y="740"/>
     </wire>
     <wire>
       <p1 x="1840" y="580"/>
@@ -532,20 +534,20 @@ ciclo no se hace nada (se envia alta impedancia)</string>
       <p2 x="1640" y="620"/>
     </wire>
     <wire>
-      <p1 x="-760" y="780"/>
-      <p2 x="-540" y="780"/>
+      <p1 x="-100" y="780"/>
+      <p2 x="120" y="780"/>
     </wire>
     <wire>
-      <p1 x="-1220" y="720"/>
-      <p2 x="-1180" y="720"/>
+      <p1 x="-560" y="720"/>
+      <p2 x="-520" y="720"/>
     </wire>
     <wire>
-      <p1 x="-1320" y="720"/>
-      <p2 x="-1300" y="720"/>
+      <p1 x="-660" y="720"/>
+      <p2 x="-640" y="720"/>
     </wire>
     <wire>
-      <p1 x="-1100" y="720"/>
-      <p2 x="-900" y="720"/>
+      <p1 x="-440" y="720"/>
+      <p2 x="-240" y="720"/>
     </wire>
     <wire>
       <p1 x="1520" y="560"/>
@@ -604,16 +606,16 @@ ciclo no se hace nada (se envia alta impedancia)</string>
       <p2 x="1400" y="120"/>
     </wire>
     <wire>
-      <p1 x="-1380" y="760"/>
-      <p2 x="-1300" y="760"/>
+      <p1 x="-720" y="760"/>
+      <p2 x="-640" y="760"/>
     </wire>
     <wire>
-      <p1 x="-540" y="760"/>
-      <p2 x="-480" y="760"/>
+      <p1 x="120" y="760"/>
+      <p2 x="180" y="760"/>
     </wire>
     <wire>
-      <p1 x="-900" y="760"/>
-      <p2 x="-880" y="760"/>
+      <p1 x="-240" y="760"/>
+      <p2 x="-220" y="760"/>
     </wire>
     <wire>
       <p1 x="1480" y="600"/>
@@ -628,12 +630,8 @@ ciclo no se hace nada (se envia alta impedancia)</string>
       <p2 x="1100" y="540"/>
     </wire>
     <wire>
-      <p1 x="-1220" y="720"/>
-      <p2 x="-1220" y="740"/>
-    </wire>
-    <wire>
-      <p1 x="-900" y="720"/>
-      <p2 x="-900" y="760"/>
+      <p1 x="-260" y="740"/>
+      <p2 x="-260" y="800"/>
     </wire>
     <wire>
       <p1 x="580" y="180"/>
@@ -656,16 +654,16 @@ ciclo no se hace nada (se envia alta impedancia)</string>
       <p2 x="1360" y="840"/>
     </wire>
     <wire>
+      <p1 x="-660" y="680"/>
+      <p2 x="-660" y="720"/>
+    </wire>
+    <wire>
       <p1 x="1300" y="520"/>
       <p2 x="1300" y="780"/>
     </wire>
     <wire>
       <p1 x="1300" y="820"/>
       <p2 x="1300" y="840"/>
-    </wire>
-    <wire>
-      <p1 x="-920" y="740"/>
-      <p2 x="-920" y="800"/>
     </wire>
     <wire>
       <p1 x="600" y="480"/>
@@ -680,14 +678,6 @@ ciclo no se hace nada (se envia alta impedancia)</string>
       <p2 x="1240" y="840"/>
     </wire>
     <wire>
-      <p1 x="-540" y="760"/>
-      <p2 x="-540" y="780"/>
-    </wire>
-    <wire>
-      <p1 x="-540" y="780"/>
-      <p2 x="-540" y="800"/>
-    </wire>
-    <wire>
       <p1 x="1500" y="480"/>
       <p2 x="1500" y="580"/>
     </wire>
@@ -700,20 +690,16 @@ ciclo no se hace nada (se envia alta impedancia)</string>
       <p2 x="1180" y="840"/>
     </wire>
     <wire>
-      <p1 x="-480" y="760"/>
-      <p2 x="-480" y="780"/>
-    </wire>
-    <wire>
-      <p1 x="-1320" y="680"/>
-      <p2 x="-1320" y="720"/>
-    </wire>
-    <wire>
       <p1 x="1000" y="500"/>
       <p2 x="1000" y="560"/>
     </wire>
     <wire>
       <p1 x="1320" y="780"/>
       <p2 x="1320" y="800"/>
+    </wire>
+    <wire>
+      <p1 x="-620" y="760"/>
+      <p2 x="-620" y="800"/>
     </wire>
     <wire>
       <p1 x="1900" y="180"/>
@@ -724,12 +710,24 @@ ciclo no se hace nada (se envia alta impedancia)</string>
       <p2 x="1260" y="800"/>
     </wire>
     <wire>
+      <p1 x="-560" y="720"/>
+      <p2 x="-560" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="-240" y="720"/>
+      <p2 x="-240" y="760"/>
+    </wire>
+    <wire>
       <p1 x="1520" y="440"/>
       <p2 x="1520" y="560"/>
     </wire>
     <wire>
       <p1 x="1200" y="780"/>
       <p2 x="1200" y="800"/>
+    </wire>
+    <wire>
+      <p1 x="180" y="760"/>
+      <p2 x="180" y="780"/>
     </wire>
     <wire>
       <p1 x="1140" y="780"/>
@@ -740,16 +738,20 @@ ciclo no se hace nada (se envia alta impedancia)</string>
       <p2 x="1460" y="620"/>
     </wire>
     <wire>
+      <p1 x="120" y="760"/>
+      <p2 x="120" y="780"/>
+    </wire>
+    <wire>
+      <p1 x="120" y="780"/>
+      <p2 x="120" y="800"/>
+    </wire>
+    <wire>
       <p1 x="1020" y="480"/>
       <p2 x="1020" y="520"/>
     </wire>
     <wire>
       <p1 x="1340" y="100"/>
       <p2 x="1340" y="180"/>
-    </wire>
-    <wire>
-      <p1 x="-1280" y="760"/>
-      <p2 x="-1280" y="800"/>
     </wire>
   </wires>
   <measurementOrdering/>
